@@ -1,6 +1,6 @@
 <template>
     <div class='detailList'>
-      woshi detailList组件000000
+      哈哈哈哈哈哈哈哈
     </div>
 </template>
 
@@ -14,15 +14,6 @@ export default {
     },
     created() {
       console.log(1111111111111);
-    },
-    mounted() {
-      console.log(22222222222222);
-    },
-    methods: {
-
-    },
-    components: {
-
     },
 };
 </script>
