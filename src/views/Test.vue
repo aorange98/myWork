@@ -8,17 +8,13 @@
 <script setup>
   import { onMounted,onUpdated,reactive, ref } from "vue"
 
-  let nums
  
   onMounted(()=>{
     console.log("onMounted")
   })
 
-  onUpdated(()=>{
-    console.log("onUpdated")
-  })
- 
-
+  const arr = () => [1,2,3,4,5]
+  console.log(arr);
 
 
 </script>
